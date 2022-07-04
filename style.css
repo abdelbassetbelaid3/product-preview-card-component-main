@@ -77,7 +77,13 @@ button{
     margin-bottom: 20px;
     border: none;
     border-radius: 12px;
-
+    font-family: 'Montserrat';
+    font-weight: 700; 
+    
+}
+embed{
+    margin-right: 10px;
+    vertical-align: bottom;
 }
 @media only screen and (max-width:780px){
     .product{
